@@ -1,0 +1,18 @@
+O que é Git?
+
+Git é um sistema de controle de versão open-source, ou seja, gratuito. Ele é utilizado para a criação de um histórico de alterações em código-fonte de projetos de desenvolvimento de software. Foi desenvolvido por Linus Torvalds, o criador do sistema operacional Linux.
+
+Por meio de sua utilização, podemos saber quais foram as alterações realizadas, quem fez cada uma das alterações e baixar essas mudanças em nossa máquina. Se necessário, revertê-las para uma versão anterior.
+O que é GitHub?
+
+O Github é um repositório remoto, criado como um serviço online de hospedagem de repositórios do Git.
+
+Funciona como um servidor que agrega todas as modificações realizadas por cada uma das pessoas envolvidas em um projeto, unificando as diferentes versões de código e seus históricos, permitindo compartilhamento entre as equipes.
+
+Além disso, o GitHub também conta com várias integrações com outros serviços online, permitindo o deploy automático de aplicação. Assim, garante a integração contínua e facilita o desenvolvimento.
+
+Nos últimos anos, o GitHub se tornou a principal rede social para o desenvolvimento de software, sendo que existem vários projetos open source hospedados na plataforma, que aceitam a colaboração de qualquer profissional.
+
+Outro ponto interessante é a sua utilização como currículo. Muitas empresas pedem na entrevista o link do GitHub para verificar seus projetos e entender suas capacidades de programação.
+
+Caso você esteja começando sua carreira na área de TI agora, criar um perfil nessa plataforma pode ajudar a dar visibilidade para o seu trabalho no mercado.
