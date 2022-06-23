@@ -1,0 +1,20 @@
+O que é JavaScript?
+
+JavaScript é uma linguagem de programação interpretada, baseada em orientação a objetos utilizada para client-side utilizada principalmente em navegadores web, mas também em outros ambientes como Node.js ou Apache CouchDB. É uma linguagem de script multiplataforma.
+
+Um script pode ser considerado um pequeno programa que é desenvolvido para executar pequenas funções em uma página web. Sua característica de orientação a objetivos provavelmente influenciou seu nome: “Javascript” seria uma espécie de linguagem Java para pequenos programas executados no browser. Apesar deste aspecto, a linguagem é possui finalidades bem distintas quando comparada ao Java, que ao contrário desta, é utilizada em “server-side”.
+
+Algumas características do Javascript:
+
+    Exerce controle sobre o HTML e o CSS para manipular comportamentos de páginas web.
+    É independente de plataforma
+    Permite a criação de funcionalidades para sites que não podem ser criadas com HTML e CSS.
+    O código escrito em Javascript é embutido no próprio arquivo HTML (basta que o programador utilize a tag <script> no momento de escrever as linhas em Javascript.
+    Utiliza uma sintaxe familiar, para quem já utiliza Java, C, ou C++.
+    Seu modelo de objetos é baseado em protótipos (e não em classes, como é o caso do Java).
+    Suporta funções sem requisições especiais de declaração.
+    É um tipo de programação dirigida por eventos: possibilita a criação de trechos de programa que respondem a eventos específicos, tais como um clique em um botão.
+
+Origem do JavaScript
+
+Javascript foi desenvolvida pela Netscape em 1995. Seu nome inicialmente era LiveScript, e tinha como objetivo suprir limitações do HTML.
